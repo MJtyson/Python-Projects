@@ -1,2 +1,2 @@
 # Python-Projects
-basic projects using python framework
+basic projects using python 
